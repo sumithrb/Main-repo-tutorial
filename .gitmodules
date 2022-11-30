@@ -1,0 +1,3 @@
+[submodule "git-submodule--repo-tutorial"]
+	path = git-submodule--repo-tutorial
+	url = https://github.com/sumithrb/git-submodule--repo-tutorial
